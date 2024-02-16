@@ -1,1 +1,1 @@
-This organization is deticated to maintaining [KyleTheScientist](https://github.com/KyleTheScientist)'s Gorilla Tag mods. This isn't associated with Kyle, nor is it known if we will go through with maintaining his mods.
+This organization is deticated to maintaining [KyleTheScientist](https://github.com/KyleTheScientist)'s Gorilla Tag mods. It isn't associated with Kyle, nor is it known if we will go through with maintaining his mods.
